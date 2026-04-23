@@ -158,8 +158,3 @@ uma experiencia bem legal, principalmente o gerenciamento de projeto com um clie
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/seu-perfil)
 
----
-
-<div align="center">
-  <sub>Feito com 💛 em Teresina, Piauí · 2026</sub>
-</div>
