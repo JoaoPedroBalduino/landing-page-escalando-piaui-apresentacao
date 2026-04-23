@@ -151,7 +151,8 @@ Este projeto foi desenvolvido como parte de um portfólio de **desenvolvimento w
 ## 👨‍💻 Desenvolvedor
 
 **João Pedro Balduino Leitão**  
-Desenvolvedor Web & Analista de Dados — Teresina, PI
+Desenvolvimento Web não é minha praia, mas esse projeto que fiz para a Escalando Piauí, trouxe
+uma experiencia bem legal, principalmente o gerenciamento de projeto com um cliente.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
