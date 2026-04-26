@@ -22,13 +22,11 @@ Projeto desenvolvido para a **Escalando Piauí**, empresa especializada em **Alp
 
 O objetivo foi criar uma presença digital profissional e de alta conversão, transmitindo **segurança, autoridade e modernidade** — valores essenciais para um público B2B exigente como síndicos, administradoras e engenheiros.
 
----
-
 ## 🎬 Demonstração
 
-> _Adicione abaixo o link do vídeo de apresentação do projeto_
+> _Confira abaixo o vídeo de apresentação do projeto_
 
-[![Assista no YouTube]([https://img.shields.io/badge/▶_Assistir_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/SEU_VIDEO_AQUI](https://youtu.be/32aWeBL0XgY))
+[![Assista no YouTube](https://img.shields.io/badge/▶_Assistir_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/32awebl0xgy)
 
 <!--
 Para incorporar o vídeo diretamente no README (só funciona em alguns visualizadores),
