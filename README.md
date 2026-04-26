@@ -24,11 +24,9 @@ O objetivo foi criar uma presença digital profissional e de alta conversão, tr
 
 ## 🎬 Demonstração
 
-Confira abaixo o vídeo de apresentação do projeto:
-[![YouTube](https://shields.io)](https://youtube.com)
+Confira abaixo o vídeo de apresentação do projeto:  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=32aWeBL0XgY&t=4s)
 
-
-[![Assista no YouTube](https://shields.io▶_Assistir_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=32aWeBL0XgY)
 <!--
 Para incorporar o vídeo diretamente no README (só funciona em alguns visualizadores),
 substitua VIDEO_ID pelo ID do seu vídeo no YouTube:
