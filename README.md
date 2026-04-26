@@ -26,7 +26,7 @@ O objetivo foi criar uma presença digital profissional e de alta conversão, tr
 
 > _Confira abaixo o vídeo de apresentação do projeto_
 
-[![Assista no YouTube](https://img.shields.io/badge/▶_Assistir_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/32awebl0xgy)
+[![Assista no YouTube](https://www.youtube.com/watch?v=32aWeBL0XgY)]
 
 <!--
 Para incorporar o vídeo diretamente no README (só funciona em alguns visualizadores),
